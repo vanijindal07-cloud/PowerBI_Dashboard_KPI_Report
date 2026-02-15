@@ -113,9 +113,3 @@ The dashboard is designed to be clean, interactive, and user-friendly.
 ## Conclusion
 This project demonstrates the practical application of Business Intelligence concepts, including KPI creation, data visualization, and storytelling.
 It highlights how raw data can be transformed into actionable insights to support strategic business decisions.
-
----
-
-## 🔗 Submission
-
-Add your GitHub repository link here:
